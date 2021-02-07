@@ -19,8 +19,8 @@ This is a project includes exploratory and explanatory analysis for the data usi
 
 >For presentation I focused on the graphs that gives an overview for the user and answering some of the important question like would the borrowers default gving several factors. Plus, what are the major factors of choosing borrowers.
 
-1. Employment Status is a major importance for understanding how many are going to pay their loans
-2. APR rates. We found out that APR rates are not correlated with income nor credit score.
-3. Credit score. credit score is not a major factor in determining the amount of loan given.
+>1. Employment Status is a major importance for understanding how many are going to pay their loans
+>2. APR rates. We found out that APR rates are not correlated with income nor credit score.
+>3. Credit score. credit score is not a major factor in determining the amount of loan given.
 
 To sum up the analysis, I would say that the loans are fairly organized and there is no risk involved. However, the criteria for choosing borrowers depend heavily on income, employment status.
